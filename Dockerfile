@@ -18,4 +18,4 @@ RUN apk add --no-cache \
   && wget -q https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.28-r0/glibc-2.28-r0.apk \
   && apk add glibc-2.28-r0.apk \
   && rm -rf glibc-2.28-r0.apk
-  
+ 

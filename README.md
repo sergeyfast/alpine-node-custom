@@ -1,4 +1,3 @@
-# alpine-rsync
-docker image with rsync, ssh, git &amp; make
-
-`docker pull sergeyfast/alpine-rsync`
+# alpine-node-custom (10.15)
+docker image node with dev tools
+`docker pull sergeyfast/alpine-node-custom`
